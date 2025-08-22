@@ -6,9 +6,6 @@
 - Simple and clean Python code
 
 ## Installation
-1. Clone the repository:
-   git clone https://github.com/lexaizm-0/Password-Generator/blob/main/XkkzPassGen.py .git
-2. Navigate to the folder:
-   cd Password-Generator
-3. Run the tool:
-   python XkkzPassGen.py
+1. git clone https://github.com/lexaizm-0/Password-Generator/blob/main/XkkzPassGen.py .git
+2. cd Password-Generator
+3. python XkkzPassGen.py
