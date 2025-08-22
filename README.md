@@ -7,7 +7,7 @@
 
 ## Installation
 1. Clone the repository:
-   git clone git https://github.com/lexaizm-0/Password-Generator/blob/main/XkkzPassGen.py .git
+   git clone https://github.com/lexaizm-0/Password-Generator/blob/main/XkkzPassGen.py .git
 2. Navigate to the folder:
    cd Password-Generator
 3. Run the tool:
